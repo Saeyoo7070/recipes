@@ -6,7 +6,7 @@
     android:layout_margin="5dp"
     android:clickable="true"
     app:cardCornerRadius="4dp"
-    app:cardBackgroundColor="@color/appbar_color"
+    app:cardBackgroundColor="@color/cardview_background"
     android:foreground="?android:attr/selectableItemBackground"
     android:id="@+id/cardview_id"
     >
