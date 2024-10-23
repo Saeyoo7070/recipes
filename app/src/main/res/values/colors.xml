@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="title">#4B2E2A</color>
+    <color name="body_text">#333333</color>
+    <color name="activity_background">#FFFDD0</color>
+    <color name="cardview_background">#FFCCB2</color>
+    <color name="appbar_color">#FF6347</color>
+    <color name="appbar_shade">#D94F2A</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RecipeBox" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FF6347</item>
+        <item name="colorPrimaryDark">#D94F2A</item>
+        <item name="android:windowBackground">@color/activity_background</item>
+    </style>
+
+    <style name="Theme.RecipeBox" parent="Base.Theme.RecipeBox" />
+</resources>
